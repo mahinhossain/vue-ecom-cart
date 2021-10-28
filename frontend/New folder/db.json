@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "name": "jisek@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "email": "sufybujy@mailinator.com",
+      "id": 42
+    },
+    {
+      "name": "dygokony@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "email": "cymiwi@mailinator.com",
+      "id": 43
+    },
+    {
+      "name": "duhyg@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "email": "qelo@mailinator.com",
+      "id": 44
+    },
+    {
+      "name": "wilybymaqa@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "email": "likena@mailinator.com",
+      "id": 45
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Omar Burris",
+      "contact": "Damian Jensen",
+      "adress": "Assumenda cillum ali",
+      "id": 7
+    },
+    {
+      "name": "Tad Donaldson",
+      "contact": "Karleigh Carson",
+      "adress": "Dolorem corporis vol",
+      "id": 8
+    },
+    {
+      "name": "Armand Ortiz",
+      "contact": "Karina Ingram",
+      "adress": "Laborum Quia velit ",
+      "id": 9
+    },
+    {
+      "name": "Aquila Decker",
+      "contact": "Bevis Adkins",
+      "adress": "Ut non maxime aspern",
+      "id": 10
+    },
+    {
+      "name": "Mahin Hossain",
+      "contact": "12345678",
+      "adress": "Sukrabad,Dhaka",
+      "id": 12
+    }
+  ],
+  "review": [
+    {
+      "id": 1,
+      "name": "aaaaaa",
+      "password": "aaaaaa",
+      "email": "aaaaaa",
+      "comment": "this is testing review"
+    },
+    {
+      "id": 1,
+      "name": "aaaaaa",
+      "password": "aaaaaa",
+      "email": "aaaaaa",
+      "comment": "this is testing review 2"
+    }
+  ]
+}
